@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id":1,
+            "title": "Sản phẩm 1",
+            "price":1000,
+            "description": "Giảy thể thao",
+            "thumbnail": "/img/images.jpg"
+        
+        },
+        {
+            "id":2,
+            "title": "Sản phẩm 2",
+            "price":2000,
+            "description": "Giảy thể thao",
+            "thumbnail": "/img/images.jpg"
+        }
+    ]
+}
